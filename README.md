@@ -9,7 +9,7 @@ The repo already has the Python Virtual Environment with the all the necessary d
 `python app.py`
 
 #### Dependencies
-The was made using: `Flask`, `Flask-SQLAlchemy`, `Flask-RESTful` and `flask-marshmallow`. `marshmallow-sqlalchemy` was also used to clear some conflicts;
+The application was made using: `Flask`, `Flask-SQLAlchemy`, `Flask-RESTful` and `flask-marshmallow`. `marshmallow-sqlalchemy` was also used to clear some conflicts;
 
 ## Testing the endpoints
 Located in http://localhost:5000, the API endpoints are:
